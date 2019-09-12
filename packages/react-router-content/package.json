@@ -1,0 +1,17 @@
+{
+  "name": "react-router-content-lzy",
+  "version": "1.0.0",
+  "description": "react-router-content react-router register to content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-router-content"
+  ],
+  "author": "likeju",
+  "license": "MIT",
+  "dependencies": {
+    "react-router": "^5.0.1"
+  }
+}
