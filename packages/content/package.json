@@ -1,6 +1,6 @@
 {
   "name": "content-lzy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "content react-hook redux",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,5 @@
     "content"
   ],
   "author": "likeju",
-  "license": "MIT",
-  "dependencies": {
-  }
+  "license": "MIT"
 }
