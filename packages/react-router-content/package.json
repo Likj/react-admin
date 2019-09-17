@@ -1,6 +1,6 @@
 {
   "name": "react-router-content-lzy",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "react-router-content react-router register to content",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "likeju",
   "license": "MIT",
   "dependencies": {
-    "react-router": "^5.0.1",
-    "content-lzy": "1.0.0"
+    "content-lzy": "^0.0.1",
+    "react-router": "^5.0.1"
   }
 }
