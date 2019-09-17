@@ -12,6 +12,7 @@
   "author": "likeju",
   "license": "MIT",
   "dependencies": {
-    "react-router": "^5.0.1"
+    "react-router": "^5.0.1",
+    "content-lzy": "1.0.0"
   }
 }
